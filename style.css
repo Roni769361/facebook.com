@@ -1,0 +1,77 @@
+
+body{
+    background-color: #f0f2f5;
+}
+.container{
+    height: auto;
+    /* border: 1px solid green; */
+    
+}
+.contansection{
+    height: 500px;
+    /* border: 3px solid red; */
+    align-items: center;
+    /* align-content: center; */
+}
+
+.textcontant h1{
+    color: royalblue;
+    font-size: 60px;
+    font-weight: 700;
+
+}
+
+.textcontant h2{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: 0;
+
+}
+
+.sinuporsinin{
+    /* margin: 70px 0px; */
+    height: 350px;
+    border: none;
+    text-align: center;
+    /* align-items: center; */
+    background-color: #ffffff;
+    border-radius: 10px;
+
+}
+
+.sinuporsinin form{
+    padding: 10px 15px;
+
+}
+.sinuporsinin form input{
+    height: 50px;
+}
+.logbtn{
+    background-color: #1877f2;
+    width: 332px;
+    border: none;
+    border-radius: 6px;
+    line-height: 48px;
+    font-size: 20px;
+    padding: 0 16px;
+}
+.linehope{
+    border: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+
+}
+.newac{
+    background-color: #42b72a;
+    font-size: 17px;
+    line-height: 48px;
+    border: none;
+    border-radius: 6px;
+    padding: 0 16px;
+    width: 280px;
+}
+/* javascript start */
+#javascript{
+    display: none;
+}
