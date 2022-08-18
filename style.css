@@ -75,3 +75,8 @@ body{
 #javascript{
     display: none;
 }
+@media (max-width:576px){
+    .textcontant h1, h2{
+        text-align: center;
+    }
+}
